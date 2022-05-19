@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1652870450,,"wq"
+|2,0,1652965815,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -25,26 +25,51 @@
 # Registers:
 
 # File marks:
-'0  2  18  ~/abc.txt
-|4,48,2,18,1652870450,"~/abc.txt"
-'1  2  13  ~/demo/ab.txt
-|4,49,2,13,1652822382,"~/demo/ab.txt"
+'0  3  0  ~/abcd.txt
+|4,48,3,0,1652965815,"~/abcd.txt"
+'1  2  18  ~/abc.txt
+|4,49,2,18,1652870450,"~/abc.txt"
+'2  2  13  ~/demo/ab.txt
+|4,50,2,13,1652822382,"~/demo/ab.txt"
 
 # Jumplist (newest first):
+-'  3  0  ~/abcd.txt
+|4,39,3,0,1652965815,"~/abcd.txt"
+-'  1  0  ~/abcd.txt
+|4,39,1,0,1652965784,"~/abcd.txt"
 -'  2  18  ~/abc.txt
 |4,39,2,18,1652870450,"~/abc.txt"
+-'  2  18  ~/abc.txt
+|4,39,2,18,1652870450,"~/abc.txt"
+-'  1  0  ~/abc.txt
+|4,39,1,0,1652870397,"~/abc.txt"
 -'  1  0  ~/abc.txt
 |4,39,1,0,1652870397,"~/abc.txt"
 -'  2  13  ~/demo/ab.txt
 |4,39,2,13,1652822382,"~/demo/ab.txt"
 -'  2  13  ~/demo/ab.txt
 |4,39,2,13,1652822382,"~/demo/ab.txt"
+-'  2  13  ~/demo/ab.txt
+|4,39,2,13,1652822382,"~/demo/ab.txt"
+-'  2  13  ~/demo/ab.txt
+|4,39,2,13,1652822382,"~/demo/ab.txt"
+-'  1  0  ~/demo/ab.txt
+|4,39,1,0,1652822241,"~/demo/ab.txt"
+-'  1  0  ~/demo/ab.txt
+|4,39,1,0,1652822241,"~/demo/ab.txt"
 -'  1  0  ~/demo/ab.txt
 |4,39,1,0,1652822241,"~/demo/ab.txt"
 -'  1  0  ~/demo/ab.txt
 |4,39,1,0,1652822241,"~/demo/ab.txt"
 
 # History of marks within files (newest to oldest):
+
+> ~/abcd.txt
+	*	1652965801	0
+	"	3	0
+	^	3	0
+	.	2	11
+	+	2	11
 
 > ~/abc.txt
 	*	1652870443	0
